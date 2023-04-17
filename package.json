@@ -11,9 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/treecao/socialnetwork-api.git"
   },
-  "keywords": [
-    "[]"
-  ],
+  "keywords": [],
   "author": "Tree",
   "license": "MIT",
   "bugs": {
@@ -22,6 +20,6 @@
   "homepage": "https://github.com/treecao/socialnetwork-api#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "mongoose": "^6.2.9"
+    "mongoose": "^6.10.5"
   }
 }
